@@ -1,0 +1,2 @@
+#!/bin/bach
+chown --from=guillaume betty hello
